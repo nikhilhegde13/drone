@@ -1,6 +1,7 @@
 
 # drone
 Welcome to the Drone registration website.
-Let's make a world a better place
+To tackle the uprising problem faced by the drones.
+Let's make a world a better place.
 
 
