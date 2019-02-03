@@ -1,9 +1,6 @@
 
 # drone
 Welcome to the Drone registration website.
-To tackle the uprising problem faced by the drones.
-Let's make a world a better place.
-Climate Change is real!
-Kids in Africa are starving!
-Let's work for the greater good!
+This is platform is based on simple frontend design and php based server code.
+The goal here is to introduce a governing body for the drones purchased, which can then be used to moniter and inspect incase of any violation.
 
